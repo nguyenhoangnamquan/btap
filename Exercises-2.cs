@@ -2,7 +2,7 @@ namespace MyProject;
 
 class Exercises2
 {
-    static void Main(string[] args)
+    static void Main2(string[] args)
     {
     
     // Ex 1: Convert Celsius to Kelvin or Farenheit
